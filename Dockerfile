@@ -27,6 +27,7 @@ WORKDIR /usr/src/ultralytics
 # COPY . /usr/src/ultralytics  # git permission issues inside container
 RUN git clone https://github.com/ultralytics/ultralytics -b main /usr/src/ultralytics
 ADD https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8n.pt /usr/src/ultralytics/
+RUN git clone https://github.com/wooseungw/SatellieteIMGDetection.git -b main /workspace/
 
 # Install pip packages
 RUN python3 -m pip install --upgrade pip wheel
