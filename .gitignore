@@ -1,5 +1,7 @@
 train/
 valid/
+wandb/
+runs/
 
 __pycache__/
 *.pyc
