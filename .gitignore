@@ -1,5 +1,7 @@
 train/
 valid/
+images/
+labels/
 wandb/
 runs/
 sample.png
