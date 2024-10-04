@@ -2,6 +2,7 @@ train/
 valid/
 wandb/
 runs/
+sample.png
 
 __pycache__/
 *.pyc
