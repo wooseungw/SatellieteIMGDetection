@@ -1,7 +1,6 @@
 train/
 valid/
-images/
-labels/
+dataset/
 wandb/
 runs/
 sample.png
