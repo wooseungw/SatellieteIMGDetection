@@ -5,6 +5,8 @@ wandb/
 runs/
 sample.png
 yolo11x-obb.pt
+.tmp.drivedownload/
+.tmp.driveupload/
 
 __pycache__/
 *.pyc
