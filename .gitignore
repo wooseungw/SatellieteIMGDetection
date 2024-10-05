@@ -4,6 +4,7 @@ datasets/
 wandb/
 runs/
 sample.png
+yolo11x-obb.pt
 
 __pycache__/
 *.pyc
