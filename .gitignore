@@ -8,6 +8,8 @@ yolo11x-obb.pt
 .tmp.drivedownload/
 .tmp.driveupload/
 
+task_smaple.png
+
 __pycache__/
 *.pyc
 .DS_Store
