@@ -9,6 +9,7 @@ yolo11x-obb.pt
 .tmp.driveupload/
 
 task_smaple.png
+task.ipynb
 
 __pycache__/
 *.pyc
