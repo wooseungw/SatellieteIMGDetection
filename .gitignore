@@ -5,6 +5,8 @@ wandb/
 runs/
 sample.png
 yolo11x-obb.pt
+best.pt
+
 .tmp.drivedownload/
 .tmp.driveupload/
 
