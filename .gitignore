@@ -6,6 +6,7 @@ runs/
 sample.png
 yolo11x-obb.pt
 best.pt
+aif.zip
 
 .tmp.drivedownload/
 .tmp.driveupload/
