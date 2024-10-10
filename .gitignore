@@ -6,7 +6,6 @@ runs/
 sample.png
 yolo11x-obb.pt
 best.pt
-aif.zip
 
 .tmp.drivedownload/
 .tmp.driveupload/
@@ -14,6 +13,7 @@ aif.zip
 task_smaple.png
 task.ipynb
 
+dataset2/
 __pycache__/
 *.pyc
 .DS_Store
