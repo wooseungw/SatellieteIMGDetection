@@ -1,0 +1,26 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+# KARI ship detection beta (10 classes)
+# Example usage: yolo train model=yolov8n-obb.pt data=kari-ship-det-beta.yaml
+# parent
+# ├── ultralytics
+# └── datasets
+#     └── kari-ship-det-beta  ← downloads here (2GB)
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+train: /content/drive/Othercomputers/Desktop/SatellieteIMGDetection/dataset2/images/train # train images 
+val: /content/drive/Othercomputers/Desktop/SatellieteIMGDetection/dataset2/images/val # val images 
+
+nc: 10
+# Classes for KARI Ship Detection (beta)
+names:
+  0: motorboat
+  1: sailboat
+  2: tugboat
+  3: barge
+  4: fishing boat
+  5: ferry
+  6: container ship
+  7: oil tanker
+  8: drill ship
+  9: warship
