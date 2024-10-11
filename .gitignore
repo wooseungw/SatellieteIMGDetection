@@ -15,6 +15,7 @@ task.ipynb
 
 dataset2/
 aif.zip
+submission/
 
 __pycache__/
 *.pyc
