@@ -16,7 +16,8 @@ task.ipynb
 dataset2/
 aif.zip
 submission/
-train.csv   
+train.csv  
+submission_1image/ 
 
 __pycache__/
 *.pyc
