@@ -19,6 +19,8 @@ submission/
 train.csv  
 submission_1image/ 
 
+temp_cropped_patches/
+
 __pycache__/
 *.pyc
 .DS_Store
