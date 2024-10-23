@@ -22,6 +22,9 @@ submission_1image/
 temp_cropped_patches/
 model_checkpoints/
 
+sample_crop/
+sample_crop_cluster/
+
 __pycache__/
 *.pyc
 .DS_Store
