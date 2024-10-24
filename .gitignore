@@ -18,6 +18,7 @@ aif.zip
 submission/
 train.csv  
 submission_1image/ 
+submission_no_cluster/
 
 temp_cropped_patches/
 model_checkpoints/
