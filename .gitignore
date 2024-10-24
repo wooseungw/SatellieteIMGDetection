@@ -19,6 +19,8 @@ submission/
 train.csv  
 submission_1image/ 
 submission_no_cluster/
+target_dir/
+dataset3/
 
 temp_cropped_patches/
 model_checkpoints/
