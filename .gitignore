@@ -20,7 +20,11 @@ train.csv
 submission_1image/ 
 submission_no_cluster/
 target_dir/
+target_dir2/
 dataset3/
+sample/
+image.png
+image_np.png
 
 temp_cropped_patches/
 model_checkpoints/
