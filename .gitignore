@@ -21,6 +21,7 @@ submission_1image/
 
 temp_cropped_patches/
 model_checkpoints/
+resized_images/
 
 sample_crop/
 sample_crop_cluster/
