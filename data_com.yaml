@@ -1,0 +1,7 @@
+train: ../dataset_aug/images/train # 학습 데이터셋 경로
+val: ../dataset_aug/images/val # 검증 데이터셋 경로
+
+nc: 2 # 클래스 개수 (선박 하나이므로 1)
+names:
+  0: ship(s)
+  1: ship(L)
